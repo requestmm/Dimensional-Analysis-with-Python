@@ -5,10 +5,10 @@ class Length:
         self.quantity = quantity
 
     def area(self):
-        return self.quantity*2
+        return self.quantity**2
 
     def volume(self):
-        return self.quantity*3
+        return self.quantity**3
 
     def speed(self, time):
         return self.quantity/time
