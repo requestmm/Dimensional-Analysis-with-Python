@@ -1,4 +1,4 @@
-# Represents the dimension Length for Dimension Analysis
+# Dimensional analysis of Length
 
 class Length:
     def __init__(self, quantity):
